@@ -42,8 +42,8 @@ You can try out the live demo of AI Study Genie here:
 
 For a detailed explanation of how this project works, you can read the full blog post here:
 
-[**Read Blog Post**](#)  
-(*Replace the '#' with the actual blog link once published*)
+[**Read Blog Post**](https://medium.com/@ofgehagelana2019/building-an-ai-powered-personalized-learning-assistant-with-streamlit-and-gemini-api-cebe9d9f19dc)  
+<!-- (*Replace the '#' with the actual blog link once published*) -->
 
 ---
 
