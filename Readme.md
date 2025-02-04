@@ -33,8 +33,8 @@ You can try out the live demo of AI Study Genie here:
 
 ## Screenshot
 
-![AI Study Genie Screenshot](screenshot.png)  
-(*Replace the screenshot link with the actual path to the image in your repository*)
+![AI Study Genie Screenshot](https://raw.githubusercontent.com/Ofgeha-Gelana/Generative-AI-App/refs/heads/main/src/Screenshot%20from%202025-02-04%2006-23-52.png)  
+<!-- (*Replace the screenshot link with the actual path to the image in your repository*) -->
 
 ---
 
