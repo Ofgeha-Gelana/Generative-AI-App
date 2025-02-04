@@ -26,8 +26,8 @@ AI Study Genie is an AI-powered, interactive learning assistant built with Strea
 
 You can try out the live demo of AI Study Genie here:
 
-[**Live Demo**](#)  
-(*Replace the '#' with the actual demo link once deployed*)
+[**Live Demo**](https://generative-ai-app.streamlit.app/)  
+<!-- (*Replace the '#' with the actual demo link once deployed*) -->
 
 ---
 
